@@ -36,8 +36,8 @@
     {
       "_type": "star",
       "_subtype": "-",
-      "_posX": 27,
-      "_posY": 6
+      "_posX": 30,
+      "_posY": 5
     },
     {
       "_type": "star",
@@ -48,8 +48,8 @@
     {
       "_type": "star",
       "_subtype": "-",
-      "_posX": 10,
-      "_posY": 4
+      "_posX": 32,
+      "_posY": -8
     },
     {
       "_type": "obstacle",
@@ -73,7 +73,7 @@
       "_type": "obstacle",
       "_subtype": "pilar",
       "_posX": 6,
-      "_posY": -2
+      "_posY": 5
     },
     {
       "_type": "obstacle",
@@ -84,8 +84,8 @@
     {
       "_type": "relic",
       "_subtype": "bone",
-      "_posX": 15,
-      "_posY": 0
+      "_posX": 10,
+      "_posY": 4
     }
   ]
 }
