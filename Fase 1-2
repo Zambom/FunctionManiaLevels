@@ -25,13 +25,13 @@
       "_type": "rescue_fish",
       "_subtype": "turtle",
       "_posX": 22,
-      "_posY": 7
+      "_posY": -5
     },
     {
       "_type": "rescue_fish",
       "_subtype": "turtle",
       "_posX": 33,
-      "_posY": -5
+      "_posY": 1
     },
     {
       "_type": "star",
