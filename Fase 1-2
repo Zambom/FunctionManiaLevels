@@ -54,6 +54,18 @@
     {
       "_type": "obstacle",
       "_subtype": "rock",
+      "_posX": 22,
+      "_posY": -1
+    },
+    {
+      "_type": "obstacle",
+      "_subtype": "rock",
+      "_posX": 27,
+      "_posY": -8
+    },
+    {
+      "_type": "obstacle",
+      "_subtype": "rock",
       "_posX": 28,
       "_posY": 7
     },
