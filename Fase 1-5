@@ -98,10 +98,22 @@
       "_posY": -4
     },
     {
+      "_type": "obstacle",
+      "_subtype": "pilar",
+      "_posX": 30,
+      "_posY": 6
+    },
+    {
+      "_type": "obstacle",
+      "_subtype": "pilar",
+      "_posX": 30,
+      "_posY": -6
+    },
+    {
       "_type": "relic",
       "_subtype": "bone",
-      "_posX": 28,
-      "_posY": 0
+      "_posX": 35,
+      "_posY": -8
     }
   ]
 }
