@@ -7,11 +7,7 @@
   "_shotsAvailable": [
     {
       "_function": "afim",
-      "_quantity": 3
-    },
-    {
-      "_function": "constant",
-      "_quantity": 2
+      "_quantity": 5
     }
   ],
   "_levelElements": [
@@ -19,19 +15,19 @@
       "_type": "rescue_fish",
       "_subtype": "turtle",
       "_posX": 26,
-      "_posY": 4
+      "_posY": 5
     },
     {
       "_type": "rescue_fish",
       "_subtype": "turtle",
-      "_posX": 25,
+      "_posX": 16,
       "_posY": 0
     },
     {
       "_type": "rescue_fish",
       "_subtype": "turtle",
-      "_posX": 30,
-      "_posY": 8
+      "_posX": 12,
+      "_posY": -5
     },
     {
       "_type": "star",
@@ -49,7 +45,7 @@
       "_type": "star",
       "_subtype": "-",
       "_posX": 31,
-      "_posY": -2
+      "_posY": 0
     },
     {
       "_type": "obstacle",
@@ -96,8 +92,8 @@
     {
       "_type": "relic",
       "_subtype": "bone",
-      "_posX": 12,
-      "_posY": -6
+      "_posX": 30,
+      "_posY": 8
     }
   ]
 }
