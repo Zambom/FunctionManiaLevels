@@ -1,65 +1,71 @@
 {
   "_world": 1,
-  "_level": 4,
-  "_fishesToRescue": 3,
+  "_level": 5,
+  "_fishesToRescue": 4,
   "_starsToCollect": 3,
   "_relicsHidden": 1,
   "_shotsAvailable": [
     {
       "_function": "afim",
-      "_quantity": 1
+      "_quantity": 2
     },
     {
       "_function": "linear",
-      "_quantity": 1
+      "_quantity": 2
     },
     {
       "_function": "constant",
-      "_quantity": 1
+      "_quantity": 2
     }
   ],
   "_levelElements": [
     {
       "_type": "rescue_fish",
       "_subtype": "turtle",
-      "_posX": 13,
-      "_posY": 2
+      "_posX": 10,
+      "_posY": 5
     },
     {
       "_type": "rescue_fish",
       "_subtype": "turtle",
-      "_posX": 21,
-      "_posY": -6
+      "_posX": 11,
+      "_posY": -3
     },
     {
       "_type": "rescue_fish",
       "_subtype": "turtle",
-      "_posX": 25,
-      "_posY": 4
+      "_posX": 20,
+      "_posY": 3
+    },
+    {
+      "_type": "rescue_fish",
+      "_subtype": "turtle",
+      "_posX": 23,
+      "_posY": -4
     },
     {
       "_type": "star",
       "_subtype": "-",
-      "_posX": 2,
-      "_posY": 8
+      "_posX": 34,
+      "_posY": -2
     },
     {
       "_type": "star",
       "_subtype": "-",
-      "_posX": 12,
+      "_posX": 11,
       "_posY": -7
     },
     {
       "_type": "star",
       "_subtype": "-",
-      "_posX": 26,
-      "_posY": -7
+      "_posX": 18,
+      "_posY": 9
     },
     {
       "_type": "obstacle",
       "_subtype": "rock",
       "_posX": 5,
-      "_posY": 4
+      "_posY": 6
     },
     {
       "_type": "obstacle",
@@ -71,31 +77,31 @@
       "_type": "obstacle",
       "_subtype": "rock",
       "_posX": 5,
-      "_posY": -4
+      "_posY": -6
     },
     {
       "_type": "obstacle",
       "_subtype": "rock",
       "_posX": 15,
-      "_posY": 6
+      "_posY": 4
     },
     {
       "_type": "obstacle",
-      "_subtype": "rock",
-      "_posX": 18,
+      "_subtype": "ground",
+      "_posX": 23,
       "_posY": 0
     },
     {
       "_type": "obstacle",
       "_subtype": "rock",
       "_posX": 15,
-      "_posY": -6
+      "_posY": -4
     },
     {
       "_type": "relic",
       "_subtype": "bone",
-      "_posX": 9,
-      "_posY": 1
+      "_posX": 28,
+      "_posY": 0
     }
   ]
 }
