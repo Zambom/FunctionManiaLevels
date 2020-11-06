@@ -54,13 +54,13 @@
     {
       "_type": "obstacle",
       "_subtype": "rock",
-      "_posX": 22,
-      "_posY": -1
+      "_posX": 9,
+      "_posY": -3
     },
     {
       "_type": "obstacle",
       "_subtype": "rock",
-      "_posX": 27,
+      "_posX": 22,
       "_posY": -8
     },
     {
@@ -72,8 +72,8 @@
     {
       "_type": "obstacle",
       "_subtype": "pilar",
-      "_posX": 6,
-      "_posY": 5
+      "_posX": 4,
+      "_posY": 6
     },
     {
       "_type": "obstacle",
@@ -84,7 +84,7 @@
     {
       "_type": "relic",
       "_subtype": "bone",
-      "_posX": 10,
+      "_posX": 8,
       "_posY": 4
     }
   ]
