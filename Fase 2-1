@@ -7,22 +7,18 @@
   "_shotsAvailable": [
     {
       "_function": "afim",
-      "_quantity": 1
-    },
-    {
-      "_function": "linear",
       "_quantity": 2
     },
     {
       "_function": "quadratic",
-      "_quantity": 2
+      "_quantity": 3
     }
   ],
   "_levelElements": [
     {
       "_type": "rescue_fish",
       "_subtype": "turtle",
-      "_posX": 13,
+      "_posX": 21,
       "_posY": 0
     },
     {
@@ -40,26 +36,26 @@
     {
       "_type": "rescue_fish",
       "_subtype": "turtle",
-      "_posX": 27,
+      "_posX": 25,
       "_posY": 8
     },
     {
       "_type": "star",
       "_subtype": "-",
+      "_posX": 18,
+      "_posY": -5
+    },
+    {
+      "_type": "star",
+      "_subtype": "-",
       "_posX": 13,
-      "_posY": -6
+      "_posY": 0
     },
     {
       "_type": "star",
       "_subtype": "-",
-      "_posX": 22,
-      "_posY": -6
-    },
-    {
-      "_type": "star",
-      "_subtype": "-",
-      "_posX": 15,
-      "_posY": 4
+      "_posX": 20,
+      "_posY": 5
     },
     {
       "_type": "obstacle",
@@ -82,14 +78,14 @@
     {
       "_type": "obstacle",
       "_subtype": "rock",
-      "_posX": 30,
+      "_posX": 33,
       "_posY": 0
     },
     {
       "_type": "obstacle",
       "_subtype": "ground",
-      "_posX": 13,
-      "_posY": -2
+      "_posX": 18,
+      "_posY": 7
     },
     {
       "_type": "obstacle",
@@ -106,14 +102,14 @@
     {
       "_type": "obstacle",
       "_subtype": "pilar",
-      "_posX": 8,
+      "_posX": 9,
       "_posY": -5
     },
     {
       "_type": "relic",
       "_subtype": "bone",
-      "_posX": 32,
-      "_posY": 0
+      "_posX": 30,
+      "_posY": 2
     }
   ]
 }
