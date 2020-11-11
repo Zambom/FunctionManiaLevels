@@ -61,7 +61,7 @@
       "posXFinal": 5,
       "posYFinal": -5,
       "speed": 2
-    }
+    },
     {
       "_type": "moving_obstacle",
       "_subtype": "rock",
@@ -70,7 +70,7 @@
       "posXFinal": 15,
       "posYFinal": -5,
       "speed": 2
-    }
+    },
     {
       "_type": "moving_obstacle",
       "_subtype": "rock",
@@ -79,7 +79,7 @@
       "posXFinal": 30,
       "posYFinal": -5,
       "speed": 2
-    }
+    },
     {
       "_type": "obstacle",
       "_subtype": "rock",
