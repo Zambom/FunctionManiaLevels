@@ -1,0 +1,114 @@
+{
+  "_world": 2,
+  "_level": 2,
+  "_fishesToRescue": 4,
+  "_starsToCollect": 3,
+  "_relicsHidden": 1,
+  "_shotsAvailable": [
+    {
+      "_function": "quadratic",
+      "_quantity": 5
+    }
+  ],
+  "_levelElements": [
+    {
+      "_type": "rescue_fish",
+      "_subtype": "turtle",
+      "_posX": 10,
+      "_posY": 6
+    },
+    {
+      "_type": "rescue_fish",
+      "_subtype": "turtle",
+      "_posX": 14,
+      "_posY": 0
+    },
+    {
+      "_type": "rescue_fish",
+      "_subtype": "turtle",
+      "_posX": 18,
+      "_posY": -4
+    },
+    {
+      "_type": "rescue_fish",
+      "_subtype": "turtle",
+      "_posX": 32,
+      "_posY": -2
+    },
+    {
+      "_type": "star",
+      "_subtype": "-",
+      "_posX": 4,
+      "_posY": -3
+    },
+    {
+      "_type": "star",
+      "_subtype": "-",
+      "_posX": 10,
+      "_posY": -6
+    },
+    {
+      "_type": "star",
+      "_subtype": "-",
+      "_posX": 20,
+      "_posY": 9
+    },
+    {
+      "_type": "moving_obstacle",
+      "_subtype": "rock",
+      "posX": 5,
+      "posY": 5,
+      "posXFinal": 5,
+      "posYFinal": -5,
+      "speed": 0.5
+    }
+    {
+      "_type": "moving_obstacle",
+      "_subtype": "rock",
+      "posX": 15,
+      "posY": 5,
+      "posXFinal": 15,
+      "posYFinal": -5,
+      "speed": 0.5
+    }
+    {
+      "_type": "moving_obstacle",
+      "_subtype": "rock",
+      "posX": 30,
+      "posY": 5,
+      "posXFinal": 30,
+      "posYFinal": -5,
+      "speed": 0.5
+    }
+    {
+      "_type": "obstacle",
+      "_subtype": "rock",
+      "_posX": 18,
+      "_posY": 0
+    },
+    {
+      "_type": "obstacle",
+      "_subtype": "rock",
+      "_posX": 10,
+      "_posY": 0
+    },
+    {
+      "_type": "obstacle",
+      "_subtype": "pilar",
+      "_posX": 20,
+      "_posY": 0
+    },
+    {
+      "_type": "obstacle",
+      "_subtype": "rock",
+      "_posX": 35,
+      "_posY": 0
+    },
+    {
+      "_type": "relic",
+      "_subtype": "bone",
+      "_posX": 32,
+      "_posY": 2
+    }
+  ]
+}
