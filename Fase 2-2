@@ -60,7 +60,7 @@
       "posY": 5,
       "posXFinal": 5,
       "posYFinal": -5,
-      "speed": 0.5
+      "speed": 2.0
     }
     {
       "_type": "moving_obstacle",
@@ -69,7 +69,7 @@
       "posY": 5,
       "posXFinal": 15,
       "posYFinal": -5,
-      "speed": 0.5
+      "speed": 2.0
     }
     {
       "_type": "moving_obstacle",
@@ -78,7 +78,7 @@
       "posY": 5,
       "posXFinal": 30,
       "posYFinal": -5,
-      "speed": 0.5
+      "speed": 2.0
     }
     {
       "_type": "obstacle",
