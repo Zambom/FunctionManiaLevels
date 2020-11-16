@@ -99,7 +99,7 @@
     },
     {
       "_type": "moving_obstacle",
-      "_subtype": "ground",
+      "_subtype": "rock",
       "_posX": 10,
       "_posY": -8,
       "_posXFinal": 30,
