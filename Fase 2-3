@@ -107,6 +107,15 @@
       "_speed": 2.0
     },
     {
+      "_type": "moving_obstacle",
+      "_subtype": "rock",
+      "_posX": 17,
+      "_posY": 3,
+      "_posXFinal": 17,
+      "_posYFinal": -3,
+      "_speed": 2.0
+    },
+    {
       "_type": "obstacle",
       "_subtype": "rock",
       "_posX": 28,
