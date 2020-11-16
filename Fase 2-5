@@ -1,0 +1,146 @@
+{
+  "_world": 2,
+  "_level": 5,
+  "_fishesToRescue": 4,
+  "_starsToCollect": 3,
+  "_relicsHidden": 0,
+  "_shotsAvailable": [
+    {
+      "_function": "quadratic",
+      "_quantity": 3
+    },
+    {
+      "_function": "sine",
+      "_quantity": 3
+    },
+    {
+      "_function": "cosine",
+      "_quantity": 3
+    }
+  ],
+  "_levelElements": [
+    {
+      "_type": "rescue_fish",
+      "_subtype": "turtle",
+      "_posX": 12,
+      "_posY": 0
+    },
+    {
+      "_type": "rescue_fish",
+      "_subtype": "turtle",
+      "_posX": 22,
+      "_posY": 0
+    },
+    {
+      "_type": "rescue_fish",
+      "_subtype": "turtle",
+      "_posX": 32,
+      "_posY": 0
+    },
+    {
+      "_type": "rescue_fish",
+      "_subtype": "turtle",
+      "_posX": 8,
+      "_posY": -5
+    },
+    {
+      "_type": "star",
+      "_subtype": "-",
+      "_posX": 5,
+      "_posY": 0
+    },
+    {
+      "_type": "star",
+      "_subtype": "-",
+      "_posX": 17,
+      "_posY": 8
+    },
+    {
+      "_type": "star",
+      "_subtype": "-",
+      "_posX": 17,
+      "_posY": -8
+    },
+    {
+      "_type": "moving_obstacle",
+      "_subtype": "rock",
+      "_posX": 7,
+      "_posY": 7,
+      "_posXFinal": 7,
+      "_posYFinal": -3,
+      "_speed": 2.0
+    },
+    {
+      "_type": "moving_obstacle",
+      "_subtype": "rock",
+      "_posX": 12,
+      "_posY": 5,
+      "_posXFinal": 12,
+      "_posYFinal": -5,
+      "_speed": 2.0
+    },
+    {
+      "_type": "moving_obstacle",
+      "_subtype": "rock",
+      "_posX": 17,
+      "_posY": 3,
+      "_posXFinal": 17,
+      "_posYFinal": -7,
+      "_speed": 2.0
+    },
+    {
+      "_type": "moving_obstacle",
+      "_subtype": "rock",
+      "_posX": 22,
+      "_posY": 5,
+      "_posXFinal": 22,
+      "_posYFinal": -5,
+      "_speed": 2.0
+    },
+    {
+      "_type": "moving_obstacle",
+      "_subtype": "rock",
+      "_posX": 27,
+      "_posY": 7,
+      "_posXFinal": 27,
+      "_posYFinal": -3,
+      "_speed": 2.0
+    },
+    {
+      "_type": "obstacle",
+      "_subtype": "rock",
+      "_posX": 12,
+      "_posY": 5
+    },
+        {
+      "_type": "obstacle",
+      "_subtype": "rock",
+      "_posX": 22,
+      "_posY": 5
+    },
+    {
+      "_type": "obstacle",
+      "_subtype": "rock",
+      "_posX": 32,
+      "_posY": 5
+    },
+        {
+      "_type": "obstacle",
+      "_subtype": "rock",
+      "_posX": 12,
+      "_posY": -5
+    },
+        {
+      "_type": "obstacle",
+      "_subtype": "rock",
+      "_posX": 22,
+      "_posY": -5
+    },
+    {
+      "_type": "obstacle",
+      "_subtype": "rock",
+      "_posX": 32,
+      "_posY": -5
+    }
+  ]
+}
