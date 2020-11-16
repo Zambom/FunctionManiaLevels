@@ -73,18 +73,18 @@
     {
       "_type": "moving_obstacle",
       "_subtype": "rock",
-      "_posX": 20,
+      "_posX": 30,
       "_posY": 3,
-      "_posXFinal": 30,
+      "_posXFinal": 20,
       "_posYFinal": 3,
       "_speed": 2.0
     },
     {
       "_type": "moving_obstacle",
       "_subtype": "rock",
-      "_posX": 5,
+      "_posX": 15,
       "_posY": -3,
-      "_posXFinal": 15,
+      "_posXFinal": 5,
       "_posYFinal": -3,
       "_speed": 2.0
     },
@@ -100,9 +100,9 @@
     {
       "_type": "moving_obstacle",
       "_subtype": "rock",
-      "_posX": 10,
+      "_posX": 30,
       "_posY": -8,
-      "_posXFinal": 30,
+      "_posXFinal": 10,
       "_posYFinal": -8,
       "_speed": 2.0
     },
