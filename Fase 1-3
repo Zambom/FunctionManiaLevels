@@ -3,7 +3,7 @@
   "_level": 3,
   "_fishesToRescue": 3,
   "_starsToCollect": 3,
-  "_relicsHidden": 1,
+  "_relicsHidden": 0,
   "_shotsAvailable": [
     {
       "_function": "linear",
