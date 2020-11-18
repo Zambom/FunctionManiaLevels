@@ -21,12 +21,12 @@
       "_type": "rescue_fish",
       "_subtype": "turtle",
       "_posX": 16,
-      "_posY": 1
+      "_posY": 2
     },
     {
       "_type": "rescue_fish",
       "_subtype": "turtle",
-      "_posX": 20,
+      "_posX": 30,
       "_posY": -4
     },
     {
