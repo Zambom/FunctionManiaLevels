@@ -27,7 +27,7 @@
       "_type": "rescue_fish",
       "_subtype": "turtle",
       "_posX": 12,
-      "_posY": -5
+      "_posY": -3
     },
     {
       "_type": "star",
@@ -39,18 +39,18 @@
       "_type": "star",
       "_subtype": "-",
       "_posX": 21,
-      "_posY": -5
+      "_posY": -3
     },
     {
       "_type": "star",
       "_subtype": "-",
       "_posX": 34,
-      "_posY": 0
+      "_posY": -3
     },
     {
       "_type": "obstacle",
       "_subtype": "rock",
-      "_posX": 4,
+      "_posX": 32,
       "_posY": 6
     },
     {
@@ -68,7 +68,7 @@
     {
       "_type": "obstacle",
       "_subtype": "rock",
-      "_posX": 16,
+      "_posX": 34,
       "_posY": -5
     },
     {
