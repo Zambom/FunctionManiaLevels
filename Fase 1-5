@@ -3,7 +3,7 @@
   "_level": 5,
   "_fishesToRescue": 4,
   "_starsToCollect": 3,
-  "_relicsHidden": 1,
+  "_relicsHidden": 0,
   "_shotsAvailable": [
     {
       "_function": "afim",
@@ -108,12 +108,6 @@
       "_subtype": "pilar",
       "_posX": 30,
       "_posY": -6
-    },
-    {
-      "_type": "relic",
-      "_subtype": "bone",
-      "_posX": 27,
-      "_posY": 6
     }
   ]
 }
