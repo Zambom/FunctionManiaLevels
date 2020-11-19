@@ -3,7 +3,7 @@
   "_level": 2,
   "_fishesToRescue": 4,
   "_starsToCollect": 3,
-  "_relicsHidden": 1,
+  "_relicsHidden": 0,
   "_shotsAvailable": [
     {
       "_function": "quadratic",
@@ -44,14 +44,14 @@
     {
       "_type": "star",
       "_subtype": "-",
-      "_posX": 10,
-      "_posY": -6
+      "_posX": 31,
+      "_posY": 2
     },
     {
       "_type": "star",
       "_subtype": "-",
-      "_posX": 20,
-      "_posY": 9
+      "_posX": 24,
+      "_posY": 7
     },
     {
       "_type": "moving_obstacle",
@@ -66,8 +66,17 @@
       "_type": "moving_obstacle",
       "_subtype": "rock",
       "_posX": 15,
-      "_posY": 5,
+      "_posY": -5,
       "_posXFinal": 15,
+      "_posYFinal": 5,
+      "_speed": 2.0
+    },
+    {
+      "_type": "moving_obstacle",
+      "_subtype": "rock",
+      "_posX": 22,
+      "_posY": 5,
+      "_posXFinal": 22,
       "_posYFinal": -5,
       "_speed": 2.0
     },
@@ -75,9 +84,9 @@
       "_type": "moving_obstacle",
       "_subtype": "rock",
       "_posX": 30,
-      "_posY": 5,
+      "_posY": -5,
       "_posXFinal": 30,
-      "_posYFinal": -5,
+      "_posYFinal": 5,
       "_speed": 2.0
     },
     {
@@ -103,12 +112,6 @@
       "_subtype": "rock",
       "_posX": 35,
       "_posY": 0
-    },
-    {
-      "_type": "relic",
-      "_subtype": "bone",
-      "_posX": 32,
-      "_posY": 2
     }
   ]
 }
