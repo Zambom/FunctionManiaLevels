@@ -11,7 +11,7 @@
     },
     {
       "_function": "quadratic",
-      "_quantity": 3
+      "_quantity": 4
     }
   ],
   "_levelElements": [
@@ -19,7 +19,7 @@
       "_type": "rescue_fish",
       "_subtype": "turtle",
       "_posX": 21,
-      "_posY": 0
+      "_posY": 1
     },
     {
       "_type": "rescue_fish",
@@ -30,8 +30,8 @@
     {
       "_type": "rescue_fish",
       "_subtype": "turtle",
-      "_posX": 24,
-      "_posY": -6
+      "_posX": 13,
+      "_posY": -4
     },
     {
       "_type": "rescue_fish",
@@ -48,14 +48,14 @@
     {
       "_type": "star",
       "_subtype": "-",
-      "_posX": 13,
+      "_posX": 12,
       "_posY": 0
     },
     {
       "_type": "star",
       "_subtype": "-",
-      "_posX": 20,
-      "_posY": 5
+      "_posX": 24,
+      "_posY": -4
     },
     {
       "_type": "obstacle",
