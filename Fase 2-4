@@ -6,16 +6,12 @@
   "_relicsHidden": 0,
   "_shotsAvailable": [
     {
-      "_function": "afim",
-      "_quantity": 2
-    },
-    {
-      "_function": "sine",
+      "_function": "linear",
       "_quantity": 2
     },
     {
       "_function": "cosine",
-      "_quantity": 2
+      "_quantity": 4
     }
   ],
   "_levelElements": [
@@ -34,7 +30,7 @@
     {
       "_type": "rescue_fish",
       "_subtype": "turtle",
-      "_posX": 12,
+      "_posX": 3,
       "_posY": -6
     },
     {
@@ -65,17 +61,17 @@
       "_type": "moving_obstacle",
       "_subtype": "rock",
       "_posX": 3,
-      "_posY": -5,
-      "_posXFinal": 13,
-      "_posYFinal": 5,
+      "_posY": 5,
+      "_posXFinal": 3,
+      "_posYFinal": -2,
       "_speed": 2.0
     },
     {
       "_type": "moving_obstacle",
       "_subtype": "rock",
-      "_posX": 15,
-      "_posY": 5,
-      "_posXFinal": 25,
+      "_posX": 21,
+      "_posY": 2,
+      "_posXFinal": 21,
       "_posYFinal": -5,
       "_speed": 2.0
     },
