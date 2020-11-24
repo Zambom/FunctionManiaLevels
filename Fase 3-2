@@ -28,20 +28,20 @@
 		{
 			"_type": "rescue_fish",
 			"_subtype": "turtle",
-			"_posX": 25,
-			"_posY": -2
+			"_posX": 18,
+			"_posY": 0
 		},
 		{
 			"_type": "rescue_fish",
 			"_subtype": "turtle",
-			"_posX": 27,
-			"_posY": -6
+			"_posX": 28,
+			"_posY": -7
 		},
 		{
 			"_type": "rescue_fish",
 			"_subtype": "turtle",
 			"_posX": 32,
-			"_posY": 7
+			"_posY": 9
 		},
 		{
 			"_type": "star",
@@ -52,8 +52,8 @@
 		{
 			"_type": "star",
 			"_subtype": "-",
-			"_posX": 25,
-			"_posY": 7
+			"_posX": 23,
+			"_posY": 8
 		},
 		{
 			"_type": "star",
@@ -66,14 +66,14 @@
 			"_subtype": "rock",
 			"_posX": 3,
 			"_posY": 8,
-			"_posXFinal": 8,
+			"_posXFinal": 16,
 			"_posYFinal": 8,
 			"_speed": 2.0
 		},
 		{
 			"_type": "moving_obstacle",
 			"_subtype": "rock",
-			"_posX": 8,
+			"_posX": 16,
 			"_posY": 4,
 			"_posXFinal": 3,
 			"_posYFinal": 4,
@@ -88,8 +88,8 @@
 		{
 			"_type": "obstacle",
 			"_subtype": "rock",
-			"_posX": 10,
-			"_posY": 0
+			"_posX": 7,
+			"_posY": -4
 		},
 		{
 			"_type": "obstacle",
@@ -100,27 +100,27 @@
 		{
 			"_type": "moving_obstacle",
 			"_subtype": "rock",
-			"_posX": 27,
-			"_posY": 0,
-			"_speed": 5.0,
+			"_posX": 15,
+			"_posY": 3,
+			"_speed": 2.0,
 			"_path": [{
-					"x": 32,
-					"y": 0,
+					"x": 20,
+					"y": 3,
 					"z": 0
 				},
 				{
-					"x": 32,
-					"y": -5,
+					"x": 20,
+					"y": -3,
 					"z": 0
 				},
 				{
-					"x": 27,
-					"y": -5,
+					"x": 15,
+					"y": -3,
 					"z": 0
 				},
 				{
-					"x": 27,
-					"y": 0,
+					"x": 15,
+					"y": 3,
 					"z": 0
 				}
 			]
@@ -129,11 +129,11 @@
 			"_type": "moving_obstacle",
 			"_subtype": "rock",
 			"_posX": 30,
-			"_posY": -8,
+			"_posY": -9,
 			"_speed": 5.0,
 			"_path": [{
 					"x": 25,
-					"y": -8,
+					"y": -9,
 					"z": 0
 				},
 				{
@@ -148,7 +148,7 @@
 				},
 				{
 					"x": 30,
-					"y": -8,
+					"y": -9,
 					"z": 0
 				}
 			]
