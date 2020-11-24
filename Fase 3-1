@@ -1,7 +1,7 @@
 {
   "_world": 3,
   "_level": 1,
-  "_fishesToRescue": 1,
+  "_fishesToRescue": 5,
   "_starsToCollect": 3,
   "_relicsHidden": 0,
   "_shotsAvailable": [
@@ -20,6 +20,30 @@
       "_subtype": "turtle",
       "_posX": 21,
       "_posY": 0
+    },
+    {
+      "_type": "rescue_fish",
+      "_subtype": "turtle",
+      "_posX": 3,
+      "_posY": -5
+    },
+    {
+      "_type": "rescue_fish",
+      "_subtype": "turtle",
+      "_posX": 31,
+      "_posY": -2
+    },
+    {
+      "_type": "rescue_fish",
+      "_subtype": "turtle",
+      "_posX": 10,
+      "_posY": 0
+    },
+    {
+      "_type": "rescue_fish",
+      "_subtype": "turtle",
+      "_posX": 8,
+      "_posY": 12
     },
     {
       "_type": "star",
@@ -67,7 +91,7 @@
       "_type": "obstacle",
       "_subtype": "pilar",
       "_posX": 10,
-      "_posY": -3
+      "_posY": 3
     },
     {
       "_type": "moving_obstacle",
