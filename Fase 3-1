@@ -1,7 +1,7 @@
 {
   "_world": 3,
   "_level": 1,
-  "_fishesToRescue": 5,
+  "_fishesToRescue": 1,
   "_starsToCollect": 3,
   "_relicsHidden": 0,
   "_shotsAvailable": [
@@ -12,7 +12,7 @@
     {
       "_function": "log",
       "_quantity": 4
-    },    
+    }   
   ],
   "_levelElements": [
     {
