@@ -1,0 +1,159 @@
+{
+  "_world": 3,
+  "_level": 2,
+  "_fishesToRescue": 5,
+  "_starsToCollect": 3,
+  "_relicsHidden": 0,
+  "_shotsAvailable": [
+    {
+      "_function": "afim",
+      "_quantity": 3
+    },
+    {
+      "_function": "exp",
+      "_quantity": 4
+    }   
+  ],
+  "_levelElements": [
+    {
+      "_type": "rescue_fish",
+      "_subtype": "turtle",
+      "_posX": 4,
+      "_posY": 0
+    },
+    {
+      "_type": "rescue_fish",
+      "_subtype": "turtle",
+      "_posX": 12,
+      "_posY": 6
+    },
+    {
+      "_type": "rescue_fish",
+      "_subtype": "turtle",
+      "_posX": 25,
+      "_posY": -2
+    },
+    {
+      "_type": "rescue_fish",
+      "_subtype": "turtle",
+      "_posX": 27,
+      "_posY": -6
+    },
+    {
+      "_type": "rescue_fish",
+      "_subtype": "turtle",
+      "_posX": 32,
+      "_posY": 7
+    },
+    {
+      "_type": "star",
+      "_subtype": "-",
+      "_posX": 5,
+      "_posY": 6
+    },
+    {
+      "_type": "star",
+      "_subtype": "-",
+      "_posX": 25,
+      "_posY": 7
+    },
+    {
+      "_type": "star",
+      "_subtype": "-",
+      "_posX": 18,
+      "_posY": -2
+    },
+    {
+      "_type": "moving_obstacle",
+      "_subtype": "rock",
+      "_posX": 3,
+      "_posY": 8,
+      "_posXFinal": 8,
+      "_posYFinal": 8,
+      "_speed": 2.0
+    },
+    {
+      "_type": "moving_obstacle",
+      "_subtype": "rock",
+      "_posX": 8,
+      "_posY": 4,
+      "_posXFinal": 3,
+      "_posYFinal": 4,
+      "_speed": 2.0
+    },
+    {
+      "_type": "obstacle",
+      "_subtype": "rock",
+      "_posX": 23,
+      "_posY": 6
+    },
+    {
+      "_type": "obstacle",
+      "_subtype": "rock",
+      "_posX": 10,
+      "_posY": 0
+    },
+    {
+      "_type": "obstacle",
+      "_subtype": "rock",
+      "_posX": 33,
+      "_posY": 0
+    },
+    {
+      "_type": "moving_obstacle",
+      "_subtype": "rock",
+      "_posX": 27,
+      "_posY": 0,
+      "_speed": 5.0,
+      "_path": [
+        {
+            "x": 32,
+            "y": 0,
+            "z": 0
+        },
+        {
+            "x": 32,
+            "y": -5,
+            "z": 0
+        },
+        {
+            "x": 27,
+            "y": -5,
+            "z": 0
+        },
+        {
+            "x": 27,
+            "y": 0,
+            "z": 0
+        },
+        {
+      "_type": "moving_obstacle",
+      "_subtype": "rock",
+      "_posX": 30,
+      "_posY": -8,
+      "_speed": 5.0,
+      "_path": [
+        {
+            "x": 25,
+            "y": -8,
+            "z": 0
+        },
+        {
+            "x": 25,
+            "y": -4,
+            "z": 0
+        },
+        {
+            "x": 30,
+            "y": -4,
+            "z": 0
+        },
+        {
+            "x": 30,
+            "y": -8,
+            "z": 0
+        }
+      ]
+    }
+  ]
+}
