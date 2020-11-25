@@ -162,8 +162,8 @@
 		{
 			"_type": "star",
 			"_subtype": "-",
-			"_posX": 30.5,
-			"_posY": 5.5
+			"_posX": 30,
+			"_posY": 5
 		},
 		{
 			"_type": "obstacle",
