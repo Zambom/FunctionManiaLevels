@@ -101,6 +101,18 @@
 		},
 		{
 			"_type": "obstacle",
+			"_subtype": "pilar",
+			"_posX": 11,
+			"_posY": 4
+		},
+		{
+			"_type": "obstacle",
+			"_subtype": "pilar",
+			"_posX": 24,
+			"_posY": 1
+		},
+		{
+			"_type": "obstacle",
 			"_subtype": "rock",
 			"_posX": 7,
 			"_posY": -3
