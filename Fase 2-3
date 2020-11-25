@@ -101,7 +101,7 @@
     },
     {
       "_type": "obstacle",
-      "_subtype": "ground",
+      "_subtype": "rock",
       "_posX": 17,
       "_posY": 0
     },
@@ -113,7 +113,7 @@
     },
     {
       "_type": "obstacle",
-      "_subtype": "ground",
+      "_subtype": "rock",
       "_posX": 10,
       "_posY": 7
     }
