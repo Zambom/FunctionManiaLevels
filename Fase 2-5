@@ -108,43 +108,43 @@
     },
     {
       "_type": "obstacle",
-      "_subtype": "ground",
+      "_subtype": "rock",
       "_posX": 12,
       "_posY": 5
     },
         {
       "_type": "obstacle",
-      "_subtype": "ground",
+      "_subtype": "rock",
       "_posX": 22,
       "_posY": 5
     },
     {
       "_type": "obstacle",
-      "_subtype": "ground",
+      "_subtype": "rock",
       "_posX": 32,
       "_posY": 5
     },
         {
       "_type": "obstacle",
-      "_subtype": "ground",
+      "_subtype": "rock",
       "_posX": 12,
       "_posY": -5
     },
     {
       "_type": "obstacle",
-      "_subtype": "ground",
+      "_subtype": "rock",
       "_posX": 22,
       "_posY": -5
     },
     {
       "_type": "obstacle",
-      "_subtype": "ground",
+      "_subtype": "rock",
       "_posX": 19,
       "_posY": 0
     },
     {
       "_type": "obstacle",
-      "_subtype": "ground",
+      "_subtype": "rock",
       "_posX": 32,
       "_posY": -5
     }
