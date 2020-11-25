@@ -77,7 +77,7 @@
     },
     {
       "_type": "obstacle",
-      "_subtype": "ground",
+      "_subtype": "rock",
       "_posX": 15,
       "_posY": 5
     }
