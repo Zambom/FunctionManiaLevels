@@ -8,6 +8,10 @@
     {
       "_function": "cosine",
       "_quantity": 2
+    },  
+    {
+      "_function": "constant",
+      "_quantity": 2
     },
     {
       "_function": "log",
