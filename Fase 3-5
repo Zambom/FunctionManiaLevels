@@ -1,6 +1,6 @@
 {
 	"_world": 3,
-	"_level": 4,
+	"_level": 5,
 	"_fishesToRescue": 5,
 	"_starsToCollect": 3,
 	"_relicsHidden": 0,
@@ -132,26 +132,62 @@
 		{
 			"_type": "rescue_fish",
 			"_subtype": "turtle",
-			"_posX": 20,
+			"_posX": 11,
+			"_posY": 7,
+			"_speed": 4.0,
+			"_path": [{
+					"x": 20,
+					"y": 7,
+					"z": 0
+				},
+				{
+					"x": 11,
+					"y": 7,
+					"z": 0
+				}
+			]
+		},
+		{
+			"_type": "star",
+			"_subtype": "-",
+			"_posX": 6,
 			"_posY": 6
 		},
 		{
 			"_type": "star",
 			"_subtype": "-",
-			"_posX": 5,
-			"_posY": 5
-		},
-		{
-			"_type": "star",
-			"_subtype": "-",
-			"_posX": 25,
+			"_posX": 24,
 			"_posY": 1
 		},
 		{
 			"_type": "star",
 			"_subtype": "-",
+			"_posX": 30.5,
+			"_posY": 5.5
+		},
+		{
+			"_type": "obstacle",
+			"_subtype": "rock",
+			"_posX": 4,
+			"_posY": -5
+		},
+		{
+			"_type": "obstacle",
+			"_subtype": "rock",
+			"_posX": 6,
+			"_posY": -7
+		},
+				{
+			"_type": "obstacle",
+			"_subtype": "rock",
+			"_posX": 32,
+			"_posY": -5
+		},
+		{
+			"_type": "obstacle",
+			"_subtype": "rock",
 			"_posX": 30,
-			"_posY": 5
-		}
+			"_posY": -7
+		},
 	]
 }
