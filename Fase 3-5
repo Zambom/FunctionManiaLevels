@@ -1,0 +1,157 @@
+{
+	"_world": 3,
+	"_level": 4,
+	"_fishesToRescue": 5,
+	"_starsToCollect": 3,
+	"_relicsHidden": 0,
+	"_shotsAvailable": [{
+			"_function": "log",
+			"_quantity": 3
+		},
+		{
+			"_function": "exp",
+			"_quantity": 3
+		},
+		{
+			"_function": "mod",
+			"_quantity": 3
+		}
+	],
+	"_levelElements": [{
+			"_type": "rescue_fish",
+			"_subtype": "turtle",
+			"_posX": 3,
+			"_posY": 3,
+			"_speed": 4.0,
+			"_path": [{
+					"x": 3,
+					"y": 8,
+					"z": 0
+				},
+				{
+					"x": 8,
+					"y": 8,
+					"z": 0
+				},
+				{
+					"x": 8,
+					"y": 3,
+					"z": 0
+				},
+				{
+					"x": 3,
+					"y": 3,
+					"z": 0
+				}
+			]
+		},
+		{
+			"_type": "rescue_fish",
+			"_subtype": "turtle",
+			"_posX": 33,
+			"_posY": 8,
+			"_speed": 4.0,
+			"_path": [{
+					"x": 28,
+					"y": 8,
+					"z": 0
+				},
+				{
+					"x": 28,
+					"y": 3,
+					"z": 0
+				},
+				{
+					"x": 33,
+					"y": 3,
+					"z": 0
+				},
+				{
+					"x": 33,
+					"y": 8,
+					"z": 0
+				}
+			]
+		},
+		{
+			"_type": "rescue_fish",
+			"_subtype": "turtle",
+			"_posX": 10,
+			"_posY": 3,
+			"_speed": 4.0,
+			"_path": [{
+					"x": 15,
+					"y": 3,
+					"z": 0
+				},
+				{
+					"x": 15,
+					"y": -2,
+					"z": 0
+				},
+				{
+					"x": 10,
+					"y": -2,
+					"z": 0
+				},
+				{
+					"x": 10,
+					"y": 3,
+					"z": 0
+				}
+			]
+		},
+		{
+			"_type": "rescue_fish",
+			"_subtype": "turtle",
+			"_posX": 27,
+			"_posY": -2,
+			"_speed": 4.0,
+			"_path": [{
+					"x": 27,
+					"y": 3,
+					"z": 0
+				},
+				{
+					"x": 22,
+					"y": 3,
+					"z": 0
+				},
+				{
+					"x": 22,
+					"y": -2,
+					"z": 0
+				},
+				{
+					"x": 27,
+					"y": -2,
+					"z": 0
+				}
+			]
+		},
+		{
+			"_type": "rescue_fish",
+			"_subtype": "turtle",
+			"_posX": 20,
+			"_posY": 6
+		},
+		{
+			"_type": "star",
+			"_subtype": "-",
+			"_posX": 5,
+			"_posY": 5
+		},
+		{
+			"_type": "star",
+			"_subtype": "-",
+			"_posX": 25,
+			"_posY": 1
+		},
+		{
+			"_type": "star",
+			"_subtype": "-",
+			"_posX": 30,
+			"_posY": 5
+		}
+	]
+}
